@@ -76,7 +76,9 @@ HACCP準拠の衛生記録と製造記録の管理、生産管理、在庫管理
     - APIスキーマの作成 / Figmaを用いた画面設計、プロトタイプ作成
     - AIによるコーディング、レビュー
   - チームリーダー（タスク管理、進捗管理）
-- その他: Vercelのビルド時間短縮 / AWS Lambdaを用いたPDF書類生成機能のメンテナンス
+- その他:
+  - Vercelのビルド改善（OOMエラーの解消、ビルド時間を12分→7分に短縮）
+  - AWS Lambdaを用いたPDF書類生成機能のメンテナンス
 
 **2024/10〜現在**
 - 役職: 事業部長代理（2024/10〜） → 事業部長（2025/04〜）
@@ -99,7 +101,7 @@ HACCP準拠の衛生記録と製造記録の管理、生産管理、在庫管理
 
 - **チーム規模**: 3名
 - **役割**: プロジェクトリーダー / 要件定義 / 画面設計（Figma） / 機能開発（フロントエンド・バックエンド） / タスク管理
-- **使用技術**: Next.js（Pages Router）, React, TypeScript, ChakraUI, Vercel Postgres, Prisma
+- **使用技術**: Next.js（Pages Router）, React, TypeScript, ChakraUI, Vercel Postgres, Prisma, Python
 
 #### その他
 
@@ -138,6 +140,7 @@ HACCP準拠の衛生記録と製造記録の管理、生産管理、在庫管理
 | バックエンド | Ruby on Rails, Go, Prisma |
 | API | OpenAPI（Swagger）, GraphQL |
 | データベース | MySQL, PostgreSQL, Vercel Postgres |
+| AIツール | Cursor, Claude Code, CodeRabbit, Devin |
 
 ### その他ツール
 

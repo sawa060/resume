@@ -8,7 +8,7 @@
 | 生年月日 | 1992/03/08 |
 | 居住地 | 大阪府 |
 | Twitter | [@f60sawa](https://twitter.com/f60sawa) |
-| 保有資格 | 管理栄養士 |
+| 保有資格 | 管理栄養士、AWS Solutions Architect - Associate（2025/05） |
 
 ---
 
